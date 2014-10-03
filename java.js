@@ -8,3 +8,4 @@ function mySubmit() {
   document.getElementById("chatlog").appendChild(document.createElement("br"));
   document.getElementById("texttosend").value = "";
 }
+// this is a test for my git
